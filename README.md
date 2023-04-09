@@ -10,6 +10,6 @@
 
 IP 158.160.62.201
 
-Frontend https://mesto.pnmrv.nomoredomains.monster/
+Frontend http://mesto.pnmrv.nomoredomains.monster/
 
 Backend https://api.mesto.pnmrv.nomoredomains.monster/
